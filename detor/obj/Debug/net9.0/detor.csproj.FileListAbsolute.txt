@@ -1,0 +1,11 @@
+/Users/rohangoparaju/Desktop/C#/detor/detor/obj/Debug/net9.0/detor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohangoparaju/Desktop/C#/detor/detor/obj/Debug/net9.0/detor.AssemblyInfoInputs.cache
+/Users/rohangoparaju/Desktop/C#/detor/detor/obj/Debug/net9.0/detor.AssemblyInfo.cs
+/Users/rohangoparaju/Desktop/C#/detor/detor/obj/Debug/net9.0/detor.csproj.CoreCompileInputs.cache
+/Users/rohangoparaju/Desktop/C#/detor/detor/bin/Debug/net9.0/detor.deps.json
+/Users/rohangoparaju/Desktop/C#/detor/detor/bin/Debug/net9.0/detor.dll
+/Users/rohangoparaju/Desktop/C#/detor/detor/bin/Debug/net9.0/detor.pdb
+/Users/rohangoparaju/Desktop/C#/detor/detor/obj/Debug/net9.0/detor.dll
+/Users/rohangoparaju/Desktop/C#/detor/detor/obj/Debug/net9.0/refint/detor.dll
+/Users/rohangoparaju/Desktop/C#/detor/detor/obj/Debug/net9.0/detor.pdb
+/Users/rohangoparaju/Desktop/C#/detor/detor/obj/Debug/net9.0/ref/detor.dll
